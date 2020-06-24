@@ -1,12 +1,12 @@
 # Learning
 
-##[check my github practise](https://github.com/Coding-Bee/github-slideshow)
+[check my github practise](https://github.com/Coding-Bee/github-slideshow)
 
 
 This repo contains UML diagram of an ecommerce-app and wireframe
 
 
 
-#Tools Used
-##Pencil
-##StarUml
+#Tools Used<br>
+Pencil<br>
+StarUml<br>
